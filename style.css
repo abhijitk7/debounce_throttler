@@ -1,0 +1,39 @@
+
+body {
+    background-color: rgb(133, 128, 128);
+    height: 100vh;
+    width: 100vw;
+}
+
+.container{
+    display: flex;
+    width: auto;
+    
+}
+
+.box{
+    align-items: center;
+    border-radius: 20px;
+    border-color: blue;
+    height: 100vh;
+    width: 100vw;
+    padding: 50px 50px;
+}
+
+.customInput{
+    width: 250px;
+    height: 25px;
+    border-radius: 4px 4px;
+}
+
+.customButton{
+    height: 35px;
+    width: 70px;
+    background: rgb(190, 99, 99);
+    border-radius: 5px 5px;
+}
+
+p{
+    font-family: "Gill Sans", sans-serif;
+    color: aliceblue;
+}
