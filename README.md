@@ -1,4 +1,4 @@
-# debounce_throttler
+# debounce_throttling
 Demo project to implement debounce and throttle
 
 
