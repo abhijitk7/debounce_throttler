@@ -1,5 +1,6 @@
-# debounce_throttling
-Demo project to implement debounce and throttle
+# Debounce and Throttling
+Demo project to implement debounce and throttling. 
+JavaScript techniique to improve application performance
 
 
 With debouce implementation your function is not called unless timer has not expired.
